@@ -1,4 +1,3 @@
-import { v4 as uuid } from "uuid";
 import { Dispatch, SetStateAction } from "react";
 
 import { Item } from "../types/Goal";
